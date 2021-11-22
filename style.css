@@ -1,0 +1,69 @@
+.main {
+  width: 375pt;
+  height: 812px;
+  overflow: hidden;
+  font-family: "Roboto", sans-serif;
+}
+
+.heading-nav {
+  margin: 20px 16px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #ffffff;
+}
+
+.notification-icon {
+  width: 30px;
+  height: 30px;
+}
+
+.arrow-icon {
+  width: 30px;
+  height: 30px;
+}
+
+.img-section {
+  padding-top: 20px;
+  text-align: center;
+  margin: 0 16px;
+}
+
+.img-section img {
+  width: 100%;
+}
+
+.author-name {
+  font-size: 24px;
+  width: 500;
+  letter-spacing: 2.24px;
+  color: #666666;
+}
+
+.post-date {
+  margin-top: -12px;
+  font-size: 20px;
+  width: 500;
+  letter-spacing: 2.24px;
+  color: #666666;
+}
+
+.author {
+  margin-left: 31px;
+}
+
+.main-heading {
+  font-size: 29px;
+  width: 700;
+  color: #000000;
+}
+
+.primary-heading {
+  margin-left: 31px;
+  margin-right: 16px;
+}
+
+.content-paragraph {
+  font-size: 22px;
+  color: #666666;
+  font-weight: 400;
+}
